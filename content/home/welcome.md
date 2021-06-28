@@ -3,7 +3,7 @@ advanced:
   ? css_style
   ? css_class
 widget: hero
-widget_id: main
+widget_id: welcome
 headless: true
 weight: 10
 title: The Carter Lab
