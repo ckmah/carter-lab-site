@@ -5,17 +5,18 @@
 
 main:
   - name: News
-    url: post
+    url: "#news"
     weight: 20
   - name: People
-    url: people
+    url: "#people"
     weight: 30
-  - name: Events
-    url: event
+  - name: Research
+    url: "#research"
     weight: 40
-  - name: Publications
-    url: publication
+  - name: "Publications <i class='fas fa-external-link-alt'></i>"
+    url: "https://scholar.google.com/citations?user=nlWQnXMAAAAJ&hl=en"
+    icon: download
     weight: 50
   - name: Contact
-    url: contact
+    url: "#contact"
     weight: 60

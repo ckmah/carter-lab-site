@@ -5,9 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: professional
+# theme: minimal
 day_night: false
-font: native
+font: professional
 font_size: L
 
 # SEO
@@ -20,28 +21,23 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: hkcarter@ucsd.edu
+phone: 858 822 4706
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: "BRFII Room 3A14, 9500 Gilman Dr."
+  city: La Jolla
   region: CA
-  postcode: '94305'
+  postcode: '92093-0688'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '32.87473233156598'
+  longitude: '-117.23503439751939'
 contact_links:
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on Forum
-#    link: 'https://discourse.gohugo.io'
+ - icon: comments
+   icon_pack: fas
+   name: Discuss on Forum
+   link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -72,7 +68,7 @@ show_related:
   publication: true
   talk: true
 reading_time: true
-section_pager: false
+section_pager: true
 sharing: true
 copyright_license:
   enable: false

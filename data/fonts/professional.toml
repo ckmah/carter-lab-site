@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Professional"
+
+# Optional Google font URL
+google_fonts = "family=Bebas+Neue:wght@400&family=Open+Sans:wght@400&family=Roboto+Mono"
+
+# Font families
+heading_font = "Bebas Neue"
+body_font = "Open Sans"
+nav_font = "Bebas Neue"
+mono_font = "Roboto Mono"
