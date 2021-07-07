@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 Dr. Carter is an Assistant Professor in the UCSD Department of Medicine, Division of Medical Genetics. She received her Ph.D. in Biomedical Engineering from Johns Hopkins University and her M.Eng. in Electrical and Computer Engineering from the University of Louisville. She is an Azrieli Global Scholar, a Siebel Scholar and a recipient on a 2013 NIH Director’s Early Independence Award.

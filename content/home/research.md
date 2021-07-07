@@ -5,10 +5,10 @@ headless: true  # This file represents a page section.
 weight: 90
 # ... Put Your Section Options Here (title etc.) ...
 
+title: Research Areas
 content:
   # Page type to display. E.g. project.
-  page_type: project
-
+  page_type: research
 
 # Uncomment to only show content with specific tags
 #  filters:
@@ -26,19 +26,21 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Mutations
+      tag: Mutations
+    - name: Networks
+      tag: Networks
     - name: Other
       tag: Demo
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact  
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---
