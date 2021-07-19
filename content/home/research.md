@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true  # This file represents a page section.
 
-weight: 90
+weight: 30
 # ... Put Your Section Options Here (title etc.) ...
 
 title: Research Areas
@@ -23,15 +23,15 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `filter_button` below.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Mutations
-      tag: Mutations
-    - name: Networks
-      tag: Networks
-    - name: Other
-      tag: Demo
+  # filter_button:
+  #   - name: All
+  #     tag: '*'
+  #   - name: Mutations
+  #     tag: Mutations
+  #   - name: Networks
+  #     tag: Networks
+  #   - name: Other
+  #     tag: Demo
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'

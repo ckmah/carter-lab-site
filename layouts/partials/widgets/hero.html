@@ -2,10 +2,10 @@
 {{ $page := .page }}
 {{ $bg := $page.Params.design.background }}
 
-{{ if or ($page.Params.hero_media) ($page.Params.feed) }}
-<div class="row d-flex align-items-center" style="height: 80vh">
+{{/* if or ($page.Params.hero_media) ($page.Params.feed) */}}
+<div class="row d-flex align-items-center" style="height: 60vh; min-height:800px">
   <div class="col-12 col-md-8 d-flex flex-column justify-content-center h-100">
-{{ end }}
+{{/* end */}}
 
     {{ with $page.Title }}
       <h1 class="hero-title text-md-left">{{ . | markdownify }}</h1>

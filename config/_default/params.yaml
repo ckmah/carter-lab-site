@@ -33,11 +33,11 @@ address:
 coordinates:
   latitude: '32.87473233156598'
   longitude: '-117.23503439751939'
-contact_links:
- - icon: comments
-   icon_pack: fas
-   name: Discuss on Forum
-   link: 'https://discourse.gohugo.io'
+# contact_links:
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
