@@ -23,7 +23,7 @@ bio: Andrea is a Ph.D. candidate in the Bioinformatics and Systems Biology progr
 interests:
 - Immuno-oncology
 - Immuno-informatics
-- Translational Tesearch
+- Translational Research
 
 education:
   courses:
