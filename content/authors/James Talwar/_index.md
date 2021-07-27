@@ -10,24 +10,29 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: UC San Diego
+- name: UC San Diego, Bioinformatics and Systems Biology Program
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include...
+bio: Do you feel in charge? You shouldn't - plans have a way of going awry, driven askew by an invisible, indiscriminate, and ubiquitous enemy, variance. Cancer and autoimmunity (to name but a few conditions) can be conceptualized as physical manifestations of negative biological variance. Variance though has a means, and demystifying its mechanisms and means is a fascinating area of research. Leveraging data analysis and state of the art techniques in pattern recognition, I focus on both identifying mechanisms of disease and quantifying individual disease risk. 
+
+We may all be kites dancing in a hurricane (to paraphrase from Spectre), but I'd at least like to know the name of the storm... May the odds be ever in your favor!!!
 
 interests:
-- Cancer Biology
+- Deep Learning
+- Cancer Immunology
+- Autoimmunity
+- Genetic Risk
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: B.S.E. in Bioengineering 2014
+    institution: University of Pennsylvania
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,16 +41,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:jtalwar@eng.ucsd.edu'
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jvtalwar
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,4 +61,6 @@ user_groups:
 - Graduate Students
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Do you feel in charge? You shouldn't - plans have a way of going awry, driven askew by an invisible, indiscriminate, and ubiquitous enemy, variance. Cancer and autoimmunity (to name but a few conditions) can be conceptualized as physical manifestations of negative biological variance. Variance though has a means, and demystifying its mechanisms and means is a fascinating area of research. Leveraging data analysis and state of the art techniques in pattern recognition, I focus on both identifying mechanisms of disease and quantifying individual disease risk. 
+
+We may all be kites dancing in a hurricane (to paraphrase from Spectre), but I'd at least like to know the name of the storm... May the odds be ever in your favor!!!
