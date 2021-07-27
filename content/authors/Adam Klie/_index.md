@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: B.S. in Bioengineering: Bioinformatics
+  - course: "B.S. in Bioengineering: Bioinformatics"
     institution: UC San Diego
     year: 2017
 
