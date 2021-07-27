@@ -10,24 +10,26 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: UC San Diego
+- name: UC San Diego, Bioinformatics and Systems Biology Program
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include...
+bio: Adam is a 2nd year Ph.D. student in the Bioinformatics and Systems Biology (BISB) program. Adam's research interests are in applying machine learning to model gene regulatory networks underlying cancer development. Adam also spent two years abroad playing professional basketball and in his spare time enjoys exercising and playing guitar.
 
 interests:
-- Cancer Biology
+- Cancer Genomics 
+- Gene Regulatory Networks
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: "B.S. in Bioengineering: Bioinformatics"
+    institution: UC San Diego
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,16 +38,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:aklie@eng.ucsd.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/klieadam
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=AA9_2wEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/adamklie
+- icon: address-card
+  icon_pack: far
+  link: https://adamklie.com/
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,4 +67,4 @@ user_groups:
 - Graduate Students
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Adam is a 2nd year Ph.D. student in the Bioinformatics and Systems Biology (BISB) program. Adam's research interests are in applying machine learning to model gene regulatory networks underlying cancer development. Adam also spent two years abroad playing professional basketball and in his spare time enjoys exercising and playing guitar.
