@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: B.S.E. in Bioengineering 2014
+  - course: B.S.E. in Bioengineering
     institution: University of Pennsylvania
     year: 2014
 
