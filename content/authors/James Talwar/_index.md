@@ -18,9 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Do you feel in charge? You shouldn't - plans have a way of going awry, driven askew by an invisible, indiscriminate, and ubiquitous enemy, variance. Cancer and autoimmunity (to name but a few conditions) can be conceptualized as physical manifestations of negative biological variance. Variance though has a means, and demystifying its mechanisms and means is a fascinating area of research. Leveraging data analysis and state of the art techniques in pattern recognition, I focus on both identifying mechanisms of disease and quantifying individual disease risk. 
-
-We may all be kites dancing in a hurricane (to paraphrase from Spectre), but I'd at least like to know the name of the storm... May the odds be ever in your favor!!!
+bio: Do you feel in charge? You shouldn't - plans have a way of going awry, driven askew by an invisible, indiscriminate, and ubiquitous enemy, variance. Cancer and autoimmunity (to name but a few conditions) can be conceptualized as physical manifestations of negative biological variance. Variance though has a means, and demystifying its mechanisms and means is a fascinating area of research. Leveraging data analysis and state of the art techniques in pattern recognition, I focus on both identifying mechanisms of disease and quantifying individual disease risk.
 
 interests:
 - Deep Learning
