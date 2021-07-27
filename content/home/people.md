@@ -18,7 +18,7 @@ content:
   user_groups:
   - Principal Investigator
   - Graduate Students
-  - Researcher Assistant
+  - Research Assistant
   - Alumni
 design:
   show_interests: false
