@@ -15,8 +15,8 @@ font_size: L
 
 site_type: Organization
 local_business_type: ''
-org_name: ''
-description: My research group description.
+org_name: 'Carter Lab'
+description: We are a computational research lab that studies the relationship between genotype and cancer-associated phenotypes at multiple scales.
 twitter: ''
 
 # Contact (edit or remove options as required)

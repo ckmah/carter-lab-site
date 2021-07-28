@@ -3,16 +3,26 @@
 {{ $bg := $page.Params.design.background }}
 
 {{/* if or ($page.Params.hero_media) ($page.Params.feed) */}}
-<div class="row d-flex align-items-center" style="height: 60vh; min-height:800px">
-  <div class="col-12 col-md-8 d-flex flex-column justify-content-center h-100">
+<div class="row d-flex align-items-center" style="height: 85vh; min-height:800px">
+  <div class="col-12 d-flex flex-column justify-content-center h-100">
 {{/* end */}}
 
+    {{ if $page.Params.logo }}
+      {{ with $page.Params.logo }}
+      {{- $logo := ($page.Parent.Resources.ByType "image").GetMatch $page.Params.logo -}}
+      {{- if not $logo -}}
+        {{- $logo = resources.Get (path.Join "media" $page.Params.logo) -}}
+      {{- end -}}
+      <img class="mx-auto my-5" src="{{ $logo.RelPermalink }}" width="300px" height="300px" alt="Logo">
+      {{ end }}
+    {{ end }}
+
     {{ with $page.Title }}
-      <h1 class="hero-title text-md-left">{{ . | markdownify }}</h1>
+      <h1 class="hero-title text-center">{{ . | markdownify }}</h1>
     {{ end }}
 
     {{ with $page.Content }}
-      <div class="hero-lead text-md-left ">{{ . }}</div>
+      <div class="hero-lead text-center">{{ . }}</div>
     {{ end }}
 
     {{/* Call-to-action link */}}
