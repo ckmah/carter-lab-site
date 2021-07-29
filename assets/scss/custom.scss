@@ -14,13 +14,11 @@ body {
 
 #welcome {
     color: #FACF39;
+    background-color: black;
 }
 
 .home-section-bg {
-    filter: blur(2px) brightness(30%) !important;
-    // transform: scale(1.1);
-    margin-top:-2px;
-    max-width: 100%;
+    filter: blur(5px) brightness(30%) !important;
 }
 
 .hero-title {
