@@ -63,7 +63,7 @@ math: false
 diagram: false
 privacy_pack: false
 show_related:
-  post: true
+  post: false
   project: true
   publication: true
   talk: true
