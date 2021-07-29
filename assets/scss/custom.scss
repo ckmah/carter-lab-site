@@ -18,7 +18,9 @@ body {
 
 .home-section-bg {
     filter: blur(2px) brightness(30%) !important;
-    transform: scale(1.1);
+    // transform: scale(1.1);
+    margin-top:-2px;
+    max-width: 100%;
 }
 
 .hero-title {
