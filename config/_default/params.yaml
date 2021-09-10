@@ -13,10 +13,10 @@ font_size: L
 
 # SEO
 
-site_type: Organization
+site_type: ResearchOrganization
 local_business_type: ''
-org_name: 'Carter Lab'
-description: We are a computational research lab that studies the relationship between genotype and cancer-associated phenotypes at multiple scales.
+org_name: 'The Carter Lab at UC San Diego'
+description: The Carter Lab is led by Dr. Hannah Carter in the School of Medicine, UC San Diego. We are a computational research lab that studies the relationship between genotype and cancer-associated phenotypes at multiple scales.
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -113,7 +113,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-WVD3JT6R9J'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
