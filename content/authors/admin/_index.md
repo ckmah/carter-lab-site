@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Carter is an Assistant Professor in the UCSD Department of Medicine, Division of Medical Genetics. She received her Ph.D. in Biomedical Engineering from Johns Hopkins University and her M.Eng. in Electrical and Computer Engineering from the University of Louisville. She is an Azrieli Global Scholar, a Siebel Scholar and a recipient on a 2013 NIH Director’s Early Independence Award.
+bio: Dr. Carter is an Associate Professor in the UCSD Department of Medicine, Division of Medical Genetics. She received her Ph.D. in Biomedical Engineering from Johns Hopkins University and her M.Eng. in Electrical and Computer Engineering from the University of Louisville. She is an Azrieli Global Scholar, a Siebel Scholar and a recipient on a 2013 NIH Director’s Early Independence Award.
 
 interests:
 - Cancer Biology
@@ -61,4 +61,4 @@ user_groups:
 - Principal Investigator
 ---
 
-Dr. Carter is an Assistant Professor in the UCSD Department of Medicine, Division of Medical Genetics. She received her Ph.D. in Biomedical Engineering from Johns Hopkins University and her M.Eng. in Electrical and Computer Engineering from the University of Louisville. She is an Azrieli Global Scholar, a Siebel Scholar and a recipient on a 2013 NIH Director’s Early Independence Award.
+Dr. Carter is an Associate Professor in the UCSD Department of Medicine, Division of Medical Genetics. She received her Ph.D. in Biomedical Engineering from Johns Hopkins University and her M.Eng. in Electrical and Computer Engineering from the University of Louisville. She is an Azrieli Global Scholar, a Siebel Scholar and a recipient on a 2013 NIH Director’s Early Independence Award.
